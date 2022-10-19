@@ -33,7 +33,6 @@ body:
       label: Use case
       description: 你想要新功能有什么样的行为？
       placeholder: >
-        
         这个新功能想要实现什么样的目标？对应实现思路有什么建议吗？
 
   - type: textarea
@@ -54,7 +53,9 @@ body:
     attributes:
       label: Related pull requests
       description: 目前是否有与此新功能有关的 pull request, 您可以填写 `#数字` 或者URL 方便我们快速定位到这个pr
-
+      placeholder: >
+        - [ ] ikaros: 
+        - [ ] ikaros-admin: 
 
   - type: markdown
     attributes:
