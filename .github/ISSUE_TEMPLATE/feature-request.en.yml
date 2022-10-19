@@ -56,9 +56,9 @@ body:
       label: Related pull requests
       description: Is there currently another pull request associated with this?
       placeholder: >
-        - [ ] ikaros: 
-        
-        - [ ] ikaros-admin: 
+        - [ ] component1: pr link
+
+        - [ ] component2: pr link
 
   - type: markdown
     attributes:
